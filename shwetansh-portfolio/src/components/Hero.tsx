@@ -42,7 +42,8 @@ export default function Hero() {
             Shwetansh Srivastava
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 tracking-wide">
-            Software Engineer & Full Stack Developer
+            Software Engineer & Full-
+            Stack Developer
           </p>
         </motion.div>
       </div>
